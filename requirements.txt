@@ -8,7 +8,7 @@ idna==3.4
 pycparser==2.21
 pyngrok==6.0.0
 PyYAML==6.0
-requests==2.30.0
+requests==2.32.2
 socks==0
 typing_extensions==4.5.0
 urllib3==2.0.2
