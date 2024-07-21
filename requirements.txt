@@ -1,5 +1,5 @@
 asyncio==3.4.3
-asyncssh==2.13.1
+asyncssh==2.14.2
 certifi==2023.5.7
 cffi==1.15.1
 charset-normalizer==3.1.0
